@@ -1,10 +1,17 @@
 # MEAM 1010 — CAD
 
-SolidWorks exercises and design projects.
+SolidWorks exercises and design projects by Kirill Nekryukov.
 
-- `exercises/`: E01–E08.
-- `projects/`: Puzzle, Fidget, Lighthouse, Dissect.
-- `source/`: selected project snapshot.
-- `archive/` and `preserved/`: distinct earlier or alternative file sets.
+| Folder | Contents |
+| --- | --- |
+| exercises/ | E01–E08: Crank, Cube, Pulley, Piston, Mug, Vase, CSWA, Drawing |
+| projects/P1-Puzzle/source/ | Puzzle assembly and parts |
+| projects/P2-Fidget/source/ | Fidget assembly, printable part and cutting drawing |
+| projects/P3-Lighthouse/source/ | Lighthouse assembly and components |
+| projects/P4-Dissect/source/ | Dissection gearbox assembly and shafts |
 
-Exact duplicates were selected by latest filesystem modification time. Internal CAD filenames were retained. Open each assembly with its accompanying parts; assembly resolution has not been verified in SolidWorks.
+## Files and versions
+
+Exact duplicates were selected by latest filesystem modification time. CAD filenames inside assemblies are preserved. Distinct archived versions and additional parts are kept in the [private Penn archive](https://drive.google.com/drive/folders/1wc4ktC-ck_fceN-RVcpjVlg8m3RwiclM).
+
+Open assemblies together with their accompanying parts. File organization was checked; assemblies have not been opened or rebuilt in SolidWorks.
