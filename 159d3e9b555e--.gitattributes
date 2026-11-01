@@ -1,0 +1,7 @@
+*.SLDPRT binary
+*.sldprt binary
+*.SLDASM binary
+*.SLDDRW binary
+*.SchDoc binary
+*.PcbDoc binary
+*.IntLib binary

@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+~$*
+History/
+__Previews/
+*.LCK
+*.bak
+Project Logs*/
+Project Outputs*/
